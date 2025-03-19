@@ -1,6 +1,6 @@
 ## Database_Design_and_Analytics
 
-![image.png](attachment:5077efff-d084-448d-9a2d-fa7a0f356b90:image.png)
+
 
 ### 1. Project Overview
 
